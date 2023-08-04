@@ -3,7 +3,7 @@ def main():
     nombre_jugador = input("Por favor, introduce tu nombre: ")
 
     # Imprimir el mensaje de bienvenida
-    print(f"Bienvenido, {nombre_jugador}, al emocionante juego de laberinto.")
+    print(f"Bienvenido, {nombre_jugador}, al emocionante juego del laberinto.")
 
 
 if __name__ == "__main__":
